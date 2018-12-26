@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Persona": 2
+  },
+  "models": {
+    "Persona": {
+      "Miguel": "{\"nombre\":\"Miguel\",\"pass\":\"mmm\",\"rol\":\"profesor\",\"puntos\":0}"
+    }
+  }
+}
